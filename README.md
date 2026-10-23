@@ -1,3 +1,5 @@
+> **Legacy package identity.** This repository retains the v1.1.0 tag. For new SimpleRest projects use [simplerest-scaffolding](https://github.com/boctulus/simplerest-scaffolding). The successor repositories are available on GitHub without version tags and are not registered on Packagist.
+
 # SimpleRest Code Tools
 
 Optional code-generation and PHP source tools for SimpleRest development.
